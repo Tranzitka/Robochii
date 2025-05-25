@@ -4,7 +4,7 @@ import requests
 # Пример: автоматическая публикация партнерских ссылок на Telegram-канал
 # Требуется: создать бота в BotFather, добавить в канал и дать права администратора
 
-TELEGRAM_BOT_TOKEN = "Работаем"
+TELEGRAM_BOT_TOKEN = "8036462590:AAEHWrMUnho4xFnxGe3dlX_JmEQAkJr-Zn8"
 CHANNEL_ID = "@Robich"  # пример: @mychannel
 AFFILIATE_LINKS = [
     "https://partner.example.com/link1",
